@@ -1,0 +1,39 @@
+/* Inserta tu código aqui */
+.blanco{
+	color:white;
+}
+
+.borde{
+	border:solid white 1px;
+	color:black;
+}
+.top{
+	margin-top:5%;
+}
+.redondo{
+	border:solid white 1px;
+	border-radius:50%;
+	padding:2%;
+}
+.padding{
+	padding-bottom:2%;
+}
+.padding2{
+	padding-bottom:6%;
+}
+.left{
+	margin-left:2%;
+}
+.width{
+	width:15%;
+}
+.izquierda{
+	margin-left:15%; 
+}
+.imagen{
+	width:290px !important;
+	height:200px !important;
+}
+.marino{
+	background-color:#0B243B;
+}
